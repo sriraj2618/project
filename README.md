@@ -1,7 +1,4 @@
 # project
-Sure! Here's the plain README text without any extra formatting:
-
----
 
 # Student Data Analysis Project
 
